@@ -1,2 +1,2 @@
-cd C:\Users\fcore\OneDrive\Desktop\Basdonax\PBC
+cd D:\repoGit\basdonax-ai-rag
 docker-compose up -d
